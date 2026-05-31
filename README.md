@@ -27,3 +27,6 @@ Designed with a premium Neon Dark UI aesthetic, the project showcases advanced s
 🚀 Project Vision
 
 NEURAL_X explores the concept of a future where technology and biology merge seamlessly, pushing human evolution beyond natural limitations through intelligent cybernetic innovation.
+## Demo Video
+[Watch the demo here](https://drive.google.com/file/d/1FyYiomiU5kCpr7JnY_V2KZ0fW79cKQg9/view?usp=drive_link)
+
